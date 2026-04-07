@@ -2,7 +2,7 @@
 Schematic and PCB design for a functional MicroSD Card Reader.
 
 # Schematic
-![Schematic Image](Schematics/Schematic_Arduino-Micro-SD-Card-Reader-Module_2026-04-07.png)
+![Schematic Image](Arduino-MicroSD-card-Reader/Schematics/Schematic_Arduino-Micro-SD-Card-Reader-Module_2026-04-07.png)
 
 # PCB Design
 ![PCB Design Image](PCB_Design/PCB_PCB_Arduino-Micro-SD-Card-Reader-Module_2026-04-07.png)
